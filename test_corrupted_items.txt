@@ -1,0 +1,7 @@
+101,Laptop,Electronics,Library,Lost
+bad_id,Book,Stationery,Hall,Lost
+-4,Pen,Stationery,Hall,Lost
+102,Incomplete,Record
+103,Keys,Personal,Lab,UnknownStatus
+101,Duplicate,Electronics,Lab,Lost
+104,Jacket,Clothing,Auditorium,Claimed
